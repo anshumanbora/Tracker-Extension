@@ -17,7 +17,7 @@ This extension tracks a host of user activities/information on StackOverflow.com
 2. url of the current page.
 3. url of the page the user is navigating to from the current page.
 4. Text content if user has copied any content.
-5. Content of user's seach query.
+5. Content of user's search query.
 6. Scroll activity of the user for a page.
 7. Favorite questions of the user.
 
